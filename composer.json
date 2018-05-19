@@ -1,5 +1,5 @@
 {
-    "name": "kilylabs/yii-eauth",
+    "name": "nodge/yii-eauth",
     "description": "EAuth extension allows to authenticate users by the OpenID, OAuth 1.0 and OAuth 2.0 providers.",
     "minimum-stability": "stable",
     "authors": [
