@@ -13,8 +13,8 @@
     "license": "BSD 2-Clause License",
     "require": {
         "php": ">=5.3.0",
-        "kilylabs/yiieoauth":"@stable",
-        "kilylabs/light-openid":"@stable"
+        "itmages/yiieoauth":"@stable",
+        "itmages/light-openid":"@stable"
     },
     "autoload": {
         "classmap": [
